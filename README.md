@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there👋! My name is Vladimir, basically use username *eyestrain77*.  
+### I'm a beginner Data Analysist and ML developer.  
 
-<!--
-**eyestrain77/eyestrain77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I already have some teamwork experience on ML projects.
+### My skills:
+1. [Numpy](https://numpy.org)
+2. [Pandas](https://pandas.pydata.org)
+3. [SKlearn](https://scikit-learn.org/stable)
+4. [Seaborn](https://seaborn.pydata.org)
+5. [MatPlotLib](https://matplotlib.org)
 
-Here are some ideas to get you started:
+## I'm ready to communicate and cooperate.
+### Contact me [telegram](https://t.me/hohh9h) [e-mail](mailto:sivanevvova@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

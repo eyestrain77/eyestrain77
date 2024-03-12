@@ -10,5 +10,5 @@
 5. [MatPlotLib](https://matplotlib.org)
 
 ## I'm ready to communicate and cooperate.
-### Contact me [telegram](https://t.me/hohh9h) [e-mail](mailto:sivanevvova@gmail.com)
+### Contact me: [telegram](https://t.me/hohh9h), [e-mail](mailto:sivanevvova@gmail.com)
 
